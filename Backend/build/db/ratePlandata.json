@@ -1,0 +1,28 @@
+{
+    "rateplans": [
+        {
+            "id": 1,
+            "name": "1 MB",
+            "monthlyCost": 4,
+            "dataLimit": 1024
+        },
+        {
+            "id": 2,
+            "name": "25 MB",
+            "monthlyCost": 8,
+            "dataLimit": 25600
+        },
+        {
+            "id": 3,
+            "name": "50 MB",
+            "monthlyCost": 12,
+            "dataLimit": 51200
+        },
+        {
+            "id": 4,
+            "name": "250 MB",
+            "monthlyCost": 20,
+            "dataLimit": 256000
+        }
+    ]
+}
